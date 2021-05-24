@@ -1,0 +1,24 @@
+{
+  "transactions": {
+        "Origin": "",
+        "Status": "Completed",
+        "Description": "Mobile2",
+        "SubType": "",
+        "ModeOfPayment": "",
+        "ReferenceNumber": "",
+        "Amount": 53658,
+        "pzInsKey": "COMMON-LDM-ENTITY-TRANSACTION TXN-35010",
+        "Data": "",
+        "Text": 45467,
+        "Talk": "436657",
+        "ServiceAccountID": "SA-20003",
+        "SourceSystemID": "",
+        "TransactionID": "Txn-35010",
+        "ProcessedDate": "2021-05-03T09:37:04.397Z",
+        "Type": "Usage",
+        "TransactionCode": "",
+        "PostedDate": "2021-05-03T09:37:04.397Z",
+        "AssetID": "",
+        "TransactionDate": "2021-05-03T09:37:04.397Z"
+    }
+    }
